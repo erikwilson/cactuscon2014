@@ -1,0 +1,3 @@
+[submodule "import-dxf"]
+	path = import-dxf
+	url = https://github.com/erikwilson/import-dxf.git
